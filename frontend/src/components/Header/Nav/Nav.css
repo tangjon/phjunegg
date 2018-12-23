@@ -1,0 +1,17 @@
+nav {
+    background-color: #4B4B4B;
+    color: white;
+}
+
+#headerNavBar a{
+    color:white;
+}
+#social-icons i {
+    margin-right: 12px;
+    font-size: 25px;
+}
+
+#headerNavBar a.nav-link {
+    font-size: 13px;
+}
+
