@@ -24,6 +24,6 @@ body {
     font-family: RixMiniBus_Pro,'Roboto', sans-serif !important
 }
 
-html, body, #root, .App {
+html, body, #root, .App, #frontpage, #router{
     height: 100%;
 }

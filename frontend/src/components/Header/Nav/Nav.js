@@ -9,7 +9,7 @@ class Nav extends Component {
                         aria-controls="navbarText" aria-expanded="false" aria-label="Toggle navigation">
                     <span className="navbar-toggler-icon"></span>
                 </button>
-                <a className="flex-grow-1" href="#" style={{flex: '1 0 0'}}>HJUNE.GG</a>
+                <a className="flex-grow-1" href="/" style={{flex: '1 0 0', color:"white"}}>HJUNE.GG</a>
                 <div className="collapse navbar-collapse justify-content-center" id="headerNavBar"
                      style={{flex: '2 0 0'}}>
                     <ul className="navbar-nav justify-content-around" style={{flex: '1 0 0'}}>
@@ -24,7 +24,7 @@ class Nav extends Component {
                             <a className="nav-link" href="#section-contact">CONTACT</a>
                         </li>
                         <li className="nav-item">
-                            <a className="nav-link" href="#section-merch">MERCH</a>
+                            <a className="nav-link" href="/live">LIVE</a>
                         </li>
                     </ul>
                 </div>

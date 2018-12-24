@@ -6,17 +6,20 @@ import About from "./components/About/About"
 import Activity from "./components/Activity/Activity";
 import Footer from "./components/Footer/Footer";
 import Contact from "./components/Contact/Contact";
+import Twitch from "./components/Embedded/Twitch/Twitch";
+import {BrowserRouter as Router, Route, Link} from "react-router-dom";
+import FrontPage from "./front-page";
+
 class App extends Component {
     render() {
         return (
-            <div className="App">
-                <Nav/>
-                <Header/>
-                <About/>
-                <Activity/>
-                <Contact/>
-                <Footer/>
-            </div>
+            <Router>
+                <div id="router">
+                    <Nav/>
+                    <Route exact path="/" component={FrontPage}/>
+                    <Route path="/live" component={Twitch}/>
+                </div>
+            </Router>
         );
     }
 }
