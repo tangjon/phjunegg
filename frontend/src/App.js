@@ -16,8 +16,8 @@ class App extends Component {
             <Router>
                 <div id="router">
                     <Nav/>
-                    <Route exact path="/" component={FrontPage}/>
-                    <Route path="/live" component={Twitch}/>
+                    <Route exact path={process.env.PUBLIC_URL + '/'} component={FrontPage}/>
+                    <Route path={process.env.PUBLIC_URL + '/live'} component={Twitch}/>
                 </div>
             </Router>
         );
