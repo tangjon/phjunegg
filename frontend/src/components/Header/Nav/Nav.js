@@ -1,10 +1,11 @@
 import React, {Component} from 'react';
 import './Nav.css'
-import { Link } from 'react-router-dom'
+import {Link} from 'react-router-dom'
+
 class Nav extends Component {
     constructor(props) {
         super(props);
-        this.public_url = process.env.PUBLIC_URL + '/'
+        this.public_url = process.env.PUBLIC_URL
     }
 
     render() {
@@ -19,17 +20,17 @@ class Nav extends Component {
                      style={{flex: '2 0 0'}}>
                     <ul className="navbar-nav justify-content-around" style={{flex: '1 0 0'}}>
                         <li className="nav-item active">
-                            <a className="nav-link" href={this.public_url + '#card-schedule'}>SCHEDULE<span
+                            <a className="nav-link" href={this.public_url + '/#card-schedule'}>SCHEDULE<span
                                 className="sr-only">(current)</span></a>
                         </li>
                         <li className="nav-item">
-                            <a className="nav-link" href={this.public_url + '#section-about'}>ABOUT</a>
+                            <a className="nav-link" href={this.public_url + '/#section-about'}>ABOUT</a>
                         </li>
                         <li className="nav-item">
-                            <a className="nav-link" href={this.public_url + '#section-contact'}>CONTACT</a>
+                            <a className="nav-link" href={this.public_url + '/#section-contact'}>CONTACT</a>
                         </li>
                         <li className="nav-item">
-                            <Link className="nav-link" to="/live">LIVE</Link>
+                            <Link to={`${process.env.PUBLIC_URL}/live`} className="nav-link">LIVE</Link>
                         </li>
                     </ul>
                 </div>
