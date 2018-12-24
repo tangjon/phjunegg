@@ -4,7 +4,7 @@ self.__precacheManifest = [
     "url": "/project-streamer/static/media/Image 2.dca30d30.png"
   },
   {
-    "revision": "cd687602346ce0c65c3d",
+    "revision": "16ab55054800ff35d7bb",
     "url": "/project-streamer/static/css/main.4d34c1bc.chunk.css"
   },
   {
@@ -36,12 +36,12 @@ self.__precacheManifest = [
     "url": "/project-streamer/static/media/RixMiniBus_Pro_Regular.42964ab3.otf"
   },
   {
-    "revision": "a1facac91dcb51b55847dbab548d6159",
-    "url": "/project-streamer/static/media/RixMiniBusPR.a1facac9.ttf"
-  },
-  {
     "revision": "25024c5816172c10fad396c7f0653241",
     "url": "/project-streamer/static/media/RixMiniBusPR.25024c58.eot"
+  },
+  {
+    "revision": "a1facac91dcb51b55847dbab548d6159",
+    "url": "/project-streamer/static/media/RixMiniBusPR.a1facac9.ttf"
   },
   {
     "revision": "bbf6e977674009052bf574b6bce1caba",
@@ -68,8 +68,8 @@ self.__precacheManifest = [
     "url": "/project-streamer/static/media/korean-flag.021c0995.png"
   },
   {
-    "revision": "cd687602346ce0c65c3d",
-    "url": "/project-streamer/static/js/main.cd687602.chunk.js"
+    "revision": "16ab55054800ff35d7bb",
+    "url": "/project-streamer/static/js/main.16ab5505.chunk.js"
   },
   {
     "revision": "e65d96d04378217b8b5caff2fb1b62cb",
@@ -80,12 +80,12 @@ self.__precacheManifest = [
     "url": "/project-streamer/static/media/fa-regular-400.fc5252e5.woff"
   },
   {
-    "revision": "8e9f0ee6d016526776c27f91fea55cca",
-    "url": "/project-streamer/static/media/fa-regular-400.8e9f0ee6.eot"
-  },
-  {
     "revision": "deb8619e67992d3fa088b5dcbb8cff36",
     "url": "/project-streamer/static/media/fa-regular-400.deb8619e.ttf"
+  },
+  {
+    "revision": "8e9f0ee6d016526776c27f91fea55cca",
+    "url": "/project-streamer/static/media/fa-regular-400.8e9f0ee6.eot"
   },
   {
     "revision": "b89c6c51aa2999159a6667f97a46a346",
@@ -116,12 +116,12 @@ self.__precacheManifest = [
     "url": "/project-streamer/static/media/fa-regular-400.734248d0.svg"
   },
   {
-    "revision": "1709a2810c3752483683f3f7d287aa89",
-    "url": "/project-streamer/static/media/fa-solid-900.1709a281.ttf"
-  },
-  {
     "revision": "f72d546abcc27880adf8428792c72519",
     "url": "/project-streamer/static/media/fa-solid-900.f72d546a.eot"
+  },
+  {
+    "revision": "1709a2810c3752483683f3f7d287aa89",
+    "url": "/project-streamer/static/media/fa-solid-900.1709a281.ttf"
   },
   {
     "revision": "fef43c1fd872ef7f1880483d9b63ccf2",
@@ -132,7 +132,7 @@ self.__precacheManifest = [
     "url": "/project-streamer/static/css/1.af31af45.chunk.css"
   },
   {
-    "revision": "6446a4e1e5a3b235b0813a52b5f0775a",
+    "revision": "9481620f995bff91465020e5bfa975c7",
     "url": "/project-streamer/index.html"
   }
 ];
