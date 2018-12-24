@@ -4,16 +4,16 @@ self.__precacheManifest = [
     "url": "/project-streamer/static/media/Image 2.dca30d30.png"
   },
   {
-    "revision": "d4c47416873cc12a866d",
-    "url": "/project-streamer/static/css/main.06f40cea.chunk.css"
+    "revision": "cd687602346ce0c65c3d",
+    "url": "/project-streamer/static/css/main.4d34c1bc.chunk.css"
   },
   {
     "revision": "27603739fe78fee587c7b84873475b61",
     "url": "/project-streamer/static/media/fa-solid-900.27603739.svg"
   },
   {
-    "revision": "1875c301bdb9e80eed87",
-    "url": "/project-streamer/static/js/1.1875c301.chunk.js"
+    "revision": "220aa2db73ee26ae8e8c",
+    "url": "/project-streamer/static/js/1.220aa2db.chunk.js"
   },
   {
     "revision": "cba48b6a9b6faa1de86b",
@@ -68,8 +68,8 @@ self.__precacheManifest = [
     "url": "/project-streamer/static/media/korean-flag.021c0995.png"
   },
   {
-    "revision": "d4c47416873cc12a866d",
-    "url": "/project-streamer/static/js/main.d4c47416.chunk.js"
+    "revision": "cd687602346ce0c65c3d",
+    "url": "/project-streamer/static/js/main.cd687602.chunk.js"
   },
   {
     "revision": "e65d96d04378217b8b5caff2fb1b62cb",
@@ -116,23 +116,23 @@ self.__precacheManifest = [
     "url": "/project-streamer/static/media/fa-regular-400.734248d0.svg"
   },
   {
-    "revision": "f72d546abcc27880adf8428792c72519",
-    "url": "/project-streamer/static/media/fa-solid-900.f72d546a.eot"
-  },
-  {
     "revision": "1709a2810c3752483683f3f7d287aa89",
     "url": "/project-streamer/static/media/fa-solid-900.1709a281.ttf"
+  },
+  {
+    "revision": "f72d546abcc27880adf8428792c72519",
+    "url": "/project-streamer/static/media/fa-solid-900.f72d546a.eot"
   },
   {
     "revision": "fef43c1fd872ef7f1880483d9b63ccf2",
     "url": "/project-streamer/static/media/fa-brands-400.fef43c1f.svg"
   },
   {
-    "revision": "1875c301bdb9e80eed87",
+    "revision": "220aa2db73ee26ae8e8c",
     "url": "/project-streamer/static/css/1.af31af45.chunk.css"
   },
   {
-    "revision": "2df88110a696a587afdce24d81864663",
+    "revision": "6446a4e1e5a3b235b0813a52b5f0775a",
     "url": "/project-streamer/index.html"
   }
 ];

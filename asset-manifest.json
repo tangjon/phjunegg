@@ -1,10 +1,10 @@
 {
-  "main.css": "/project-streamer/static/css/main.06f40cea.chunk.css",
-  "main.js": "/project-streamer/static/js/main.d4c47416.chunk.js",
-  "main.js.map": "/project-streamer/static/js/main.d4c47416.chunk.js.map",
+  "main.css": "/project-streamer/static/css/main.4d34c1bc.chunk.css",
+  "main.js": "/project-streamer/static/js/main.cd687602.chunk.js",
+  "main.js.map": "/project-streamer/static/js/main.cd687602.chunk.js.map",
   "static/css/1.af31af45.chunk.css": "/project-streamer/static/css/1.af31af45.chunk.css",
-  "static/js/1.1875c301.chunk.js": "/project-streamer/static/js/1.1875c301.chunk.js",
-  "static/js/1.1875c301.chunk.js.map": "/project-streamer/static/js/1.1875c301.chunk.js.map",
+  "static/js/1.220aa2db.chunk.js": "/project-streamer/static/js/1.220aa2db.chunk.js",
+  "static/js/1.220aa2db.chunk.js.map": "/project-streamer/static/js/1.220aa2db.chunk.js.map",
   "runtime~main.js": "/project-streamer/static/js/runtime~main.cba48b6a.js",
   "runtime~main.js.map": "/project-streamer/static/js/runtime~main.cba48b6a.js.map",
   "static/media/all.min.css": "/project-streamer/static/media/fa-solid-900.27603739.svg",
@@ -16,9 +16,9 @@
   "static/media/card-stream-elements.png": "/project-streamer/static/media/card-stream-elements.13545e83.png",
   "static/media/korean-flag.png": "/project-streamer/static/media/korean-flag.021c0995.png",
   "static/media/Image 2.png": "/project-streamer/static/media/Image 2.dca30d30.png",
-  "static/css/main.06f40cea.chunk.css.map": "/project-streamer/static/css/main.06f40cea.chunk.css.map",
+  "static/css/main.4d34c1bc.chunk.css.map": "/project-streamer/static/css/main.4d34c1bc.chunk.css.map",
   "static/css/1.af31af45.chunk.css.map": "/project-streamer/static/css/1.af31af45.chunk.css.map",
   "index.html": "/project-streamer/index.html",
-  "precache-manifest.ad478441e94aebf396dfdd0fa8fc8e55.js": "/project-streamer/precache-manifest.ad478441e94aebf396dfdd0fa8fc8e55.js",
+  "precache-manifest.bda2b13e0d6f8ebca625197c89cf5d22.js": "/project-streamer/precache-manifest.bda2b13e0d6f8ebca625197c89cf5d22.js",
   "service-worker.js": "/project-streamer/service-worker.js"
 }
