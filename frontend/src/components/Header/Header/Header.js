@@ -10,6 +10,7 @@ class Header extends Component {
                 <div id="text-content" className="d-flex flex-column">
                     <img style={{width: '108px'}} alt="" src={korean_name}></img>
                     <div style={{fontSize: "135px"}} className="">HI I'M HJUNE</div>
+                    <hr className="divider"></hr>
                     <div className="d-flex flex-row">
                         <div style={{fontSize: "57px"}} className="">I PLAY RUST</div>
                         <img className="ml-2" style={{height: "62px"}} src={honeyComb} alt="honey_comb"></img>

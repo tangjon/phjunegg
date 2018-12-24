@@ -10,30 +10,37 @@ class Nav extends Component {
                     <span className="navbar-toggler-icon"></span>
                 </button>
                 <a className="flex-grow-1" href="#temp" style={{flex: '1 0 0'}}>HJUNE.GG</a>
-                <div className="collapse navbar-collapse justify-content-center" id="headerNavBar" style={{flex: '2 0 0'}}>
+                <div className="collapse navbar-collapse justify-content-center" id="headerNavBar"
+                     style={{flex: '2 0 0'}}>
                     <ul className="navbar-nav justify-content-around" style={{flex: '1 0 0'}}>
                         <li className="nav-item active">
-                            <a className="nav-link" href="#temp">SCHEDULE<span className="sr-only">(current)</span></a>
+                            <a className="nav-link" href="#card-schedule">SCHEDULE<span
+                                className="sr-only">(current)</span></a>
                         </li>
                         <li className="nav-item">
-                            <a className="nav-link" href="#temp">ABOUT</a>
+                            <a className="nav-link" href="#section-about">ABOUT</a>
                         </li>
                         <li className="nav-item">
-                            <a className="nav-link" href="#temp">CONTACT</a>
+                            <a className="nav-link" href="#section-contact">CONTACT</a>
                         </li>
                         <li className="nav-item">
-                            <a className="nav-link" href="#temp">CONTACT</a>
-                        </li>
-                        <li className="nav-item">
-                            <a className="nav-link" href="#temp">MERCH</a>
+                            <a className="nav-link" href="#section-merch">MERCH</a>
                         </li>
                     </ul>
                 </div>
                 <div id="social-icons" className="text-center" style={{flex: '1 0 0'}}>
-                    <i className="fab fa-twitch"></i>
-                    <i className="fab fa-discord"></i>
-                    <i className="fab fa-youtube"></i>
-                    <i className="fab fa-twitter"></i>
+                    <a href="https://www.twitch.tv/hjune">
+                        <i className="fab fa-twitch"></i>
+                    </a>
+                    <a href="https://discordapp.com/invite/hJune">
+                        <i className="fab fa-discord"></i>
+                    </a>
+                    <a href="https://www.youtube.com/c/hjune">
+                        <i className="fab fa-youtube"></i>
+                    </a>
+                    <a href="https://twitter.com/h7une">
+                        <i className="fab fa-twitter"></i>
+                    </a>
                 </div>
             </nav>
         );
