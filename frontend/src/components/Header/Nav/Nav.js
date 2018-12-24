@@ -4,12 +4,12 @@ import './Nav.css'
 class Nav extends Component {
     render() {
         return (
-            <nav className="navbar navbar-expand-sm shadow">
+            <nav className="navbar navbar-expand-sm shadow fixed-top">
                 <button className="navbar-toggler" type="button" data-toggle="collapse" data-target="#headerNavBar"
                         aria-controls="navbarText" aria-expanded="false" aria-label="Toggle navigation">
                     <span className="navbar-toggler-icon"></span>
                 </button>
-                <a className="flex-grow-1" href="#temp" style={{flex: '1 0 0'}}>HJUNE.GG</a>
+                <a className="flex-grow-1" href="#" style={{flex: '1 0 0'}}>HJUNE.GG</a>
                 <div className="collapse navbar-collapse justify-content-center" id="headerNavBar"
                      style={{flex: '2 0 0'}}>
                     <ul className="navbar-nav justify-content-around" style={{flex: '1 0 0'}}>
