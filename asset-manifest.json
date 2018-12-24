@@ -1,7 +1,7 @@
 {
   "main.css": "/project-streamer/static/css/main.740d9765.chunk.css",
-  "main.js": "/project-streamer/static/js/main.1e598ba6.chunk.js",
-  "main.js.map": "/project-streamer/static/js/main.1e598ba6.chunk.js.map",
+  "main.js": "/project-streamer/static/js/main.ef367429.chunk.js",
+  "main.js.map": "/project-streamer/static/js/main.ef367429.chunk.js.map",
   "static/css/1.6f35b959.chunk.css": "/project-streamer/static/css/1.6f35b959.chunk.css",
   "static/js/1.392e1cd3.chunk.js": "/project-streamer/static/js/1.392e1cd3.chunk.js",
   "static/js/1.392e1cd3.chunk.js.map": "/project-streamer/static/js/1.392e1cd3.chunk.js.map",
@@ -16,9 +16,9 @@
   "static/media/card-stream-elements.png": "/project-streamer/static/media/card-stream-elements.13545e83.png",
   "static/media/korean-flag.png": "/project-streamer/static/media/korean-flag.021c0995.png",
   "static/media/Image 2.png": "/project-streamer/static/media/Image 2.dca30d30.png",
-  "static/css/main.740d9765.chunk.css.map": "/project-streamer/static/css/main.740d9765.chunk.css.map",
   "static/css/1.6f35b959.chunk.css.map": "/project-streamer/static/css/1.6f35b959.chunk.css.map",
+  "static/css/main.740d9765.chunk.css.map": "/project-streamer/static/css/main.740d9765.chunk.css.map",
   "index.html": "/project-streamer/index.html",
-  "precache-manifest.de642b8dad3afec1bc7a11819257b764.js": "/project-streamer/precache-manifest.de642b8dad3afec1bc7a11819257b764.js",
+  "precache-manifest.d77577f238cc58e2b4d9df96f4f861ec.js": "/project-streamer/precache-manifest.d77577f238cc58e2b4d9df96f4f861ec.js",
   "service-worker.js": "/project-streamer/service-worker.js"
 }
