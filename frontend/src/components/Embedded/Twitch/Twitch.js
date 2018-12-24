@@ -6,7 +6,6 @@ class Twitch extends Component {
 
     constructor(props) {
         super(props);
-        console.log("TEST")
     }
 
     componentDidMount() {
