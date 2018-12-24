@@ -2,16 +2,16 @@ import React, {Component} from 'react';
 import './App.css';
 import Nav from "./components/Header/Nav/Nav";
 import Twitch from "./components/Embedded/Twitch/Twitch";
-import {BrowserRouter as Router, Route, Link} from "react-router-dom";
+import {BrowserRouter as Router, Route} from "react-router-dom";
 import FrontPage from "./front-page";
 
 class App extends Component {
     render() {
         return (
-            <Router basename={`${process.env.PUBLIC_URL}`}>
+            <Router basename="/project-streamer">
                 <div id="router">
                     <Nav/>
-                    <Route exact path={`${process.env.PUBLIC_URL}`} component={FrontPage}/>
+                    <Route exact path='/' component={FrontPage}/>
                     <Route path={`${process.env.PUBLIC_URL}/live`} component={Twitch}/>
                 </div>
             </Router>
