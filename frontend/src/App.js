@@ -8,10 +8,10 @@ import FrontPage from "./front-page";
 class App extends Component {
     render() {
         return (
-            <Router basename='/project-streamer'>
+            <Router basename={`${process.env.PUBLIC_URL}`}>
                 <div id="router">
                     <Nav/>
-                    <Route exact path={`${process.env.PUBLIC_URL}/`} component={FrontPage}/>
+                    <Route exact path={`${process.env.PUBLIC_URL}`} component={FrontPage}/>
                     <Route path={`${process.env.PUBLIC_URL}/live`} component={Twitch}/>
                 </div>
             </Router>

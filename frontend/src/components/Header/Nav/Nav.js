@@ -15,7 +15,7 @@ class Nav extends Component {
                         aria-controls="navbarText" aria-expanded="false" aria-label="Toggle navigation">
                     <span className="navbar-toggler-icon"></span>
                 </button>
-                <a className="flex-grow-1" href={this.public_url} style={{flex: '1 0 0', color: "white"}}>HJUNE.GG</a>
+                <a className="flex-grow-1" href={this.public_url + '/'} style={{flex: '1 0 0', color: "white"}}>HJUNE.GG</a>
                 <div className="collapse navbar-collapse justify-content-center" id="headerNavBar"
                      style={{flex: '2 0 0'}}>
                     <ul className="navbar-nav justify-content-around" style={{flex: '1 0 0'}}>
