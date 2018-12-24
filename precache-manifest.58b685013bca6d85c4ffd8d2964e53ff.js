@@ -4,7 +4,7 @@ self.__precacheManifest = [
     "url": "/project-streamer/static/media/Image 2.dca30d30.png"
   },
   {
-    "revision": "e1bfcb11df8648bc6b35",
+    "revision": "710e8fd99341b155db6c",
     "url": "/project-streamer/static/css/main.e4186a2f.chunk.css"
   },
   {
@@ -36,12 +36,12 @@ self.__precacheManifest = [
     "url": "/project-streamer/static/media/RixMiniBus_Pro_Regular.42964ab3.otf"
   },
   {
-    "revision": "25024c5816172c10fad396c7f0653241",
-    "url": "/project-streamer/static/media/RixMiniBusPR.25024c58.eot"
-  },
-  {
     "revision": "a1facac91dcb51b55847dbab548d6159",
     "url": "/project-streamer/static/media/RixMiniBusPR.a1facac9.ttf"
+  },
+  {
+    "revision": "25024c5816172c10fad396c7f0653241",
+    "url": "/project-streamer/static/media/RixMiniBusPR.25024c58.eot"
   },
   {
     "revision": "bbf6e977674009052bf574b6bce1caba",
@@ -68,8 +68,8 @@ self.__precacheManifest = [
     "url": "/project-streamer/static/media/korean-flag.021c0995.png"
   },
   {
-    "revision": "e1bfcb11df8648bc6b35",
-    "url": "/project-streamer/static/js/main.e1bfcb11.chunk.js"
+    "revision": "710e8fd99341b155db6c",
+    "url": "/project-streamer/static/js/main.710e8fd9.chunk.js"
   },
   {
     "revision": "e65d96d04378217b8b5caff2fb1b62cb",
@@ -132,7 +132,7 @@ self.__precacheManifest = [
     "url": "/project-streamer/static/css/1.1dabdb38.chunk.css"
   },
   {
-    "revision": "bf0d85d8e29cd0b0cdb3ea5d838a3064",
+    "revision": "06da1d33317f2a57eb6e8c51efcceccc",
     "url": "/project-streamer/index.html"
   }
 ];
