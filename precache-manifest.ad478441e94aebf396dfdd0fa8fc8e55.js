@@ -4,16 +4,16 @@ self.__precacheManifest = [
     "url": "/project-streamer/static/media/Image 2.dca30d30.png"
   },
   {
-    "revision": "ef367429a423160c8f2c",
-    "url": "/project-streamer/static/css/main.740d9765.chunk.css"
+    "revision": "d4c47416873cc12a866d",
+    "url": "/project-streamer/static/css/main.06f40cea.chunk.css"
   },
   {
     "revision": "27603739fe78fee587c7b84873475b61",
     "url": "/project-streamer/static/media/fa-solid-900.27603739.svg"
   },
   {
-    "revision": "392e1cd36e9b2ad0f7ca",
-    "url": "/project-streamer/static/js/1.392e1cd3.chunk.js"
+    "revision": "1875c301bdb9e80eed87",
+    "url": "/project-streamer/static/js/1.1875c301.chunk.js"
   },
   {
     "revision": "cba48b6a9b6faa1de86b",
@@ -36,12 +36,12 @@ self.__precacheManifest = [
     "url": "/project-streamer/static/media/RixMiniBus_Pro_Regular.42964ab3.otf"
   },
   {
-    "revision": "25024c5816172c10fad396c7f0653241",
-    "url": "/project-streamer/static/media/RixMiniBusPR.25024c58.eot"
-  },
-  {
     "revision": "a1facac91dcb51b55847dbab548d6159",
     "url": "/project-streamer/static/media/RixMiniBusPR.a1facac9.ttf"
+  },
+  {
+    "revision": "25024c5816172c10fad396c7f0653241",
+    "url": "/project-streamer/static/media/RixMiniBusPR.25024c58.eot"
   },
   {
     "revision": "bbf6e977674009052bf574b6bce1caba",
@@ -68,8 +68,8 @@ self.__precacheManifest = [
     "url": "/project-streamer/static/media/korean-flag.021c0995.png"
   },
   {
-    "revision": "ef367429a423160c8f2c",
-    "url": "/project-streamer/static/js/main.ef367429.chunk.js"
+    "revision": "d4c47416873cc12a866d",
+    "url": "/project-streamer/static/js/main.d4c47416.chunk.js"
   },
   {
     "revision": "e65d96d04378217b8b5caff2fb1b62cb",
@@ -128,11 +128,11 @@ self.__precacheManifest = [
     "url": "/project-streamer/static/media/fa-brands-400.fef43c1f.svg"
   },
   {
-    "revision": "392e1cd36e9b2ad0f7ca",
-    "url": "/project-streamer/static/css/1.6f35b959.chunk.css"
+    "revision": "1875c301bdb9e80eed87",
+    "url": "/project-streamer/static/css/1.af31af45.chunk.css"
   },
   {
-    "revision": "5691f5753f0abda563fafbe3d3094002",
+    "revision": "2df88110a696a587afdce24d81864663",
     "url": "/project-streamer/index.html"
   }
 ];
