@@ -15,14 +15,34 @@ class Header extends Component {
                         <div style={{fontSize: "57px"}} className="">I PLAY RUST</div>
                         <img className="ml-2" style={{height: "62px"}} src={honeyComb} alt="honey_comb"></img>
                     </div>
-                    <div id="btn-group" className="d-flex flex-column">
-                        <button id="btn-channel" className="btn btn-danger"><i className="fab fa-youtube mr-2"></i>Channel
-                        </button>
-                        <button id="btn-stream" className="btn btn-primary"><i className="fab fa-twitch mr-2"></i>Stream
-                        </button>
-                    </div>
-
                 </div>
+                    <div className="banner-social shadow">
+                        <a href="https://www.youtube.com/c/hjune" className="banner-section"><i
+                            className="fab fa-youtube"/>Youtube
+                            <div className="banner-stat text-center">
+                                100K Subscribers
+                            </div>
+                        </a>
+                        <a href="https://www.twitch.tv/hjune" className="banner-section"><i
+                            className="fab fa-twitch"/>Twitch
+                            <div className="banner-stat text-center">
+                                51.4K Followers
+                            </div>
+                        </a>
+                        <a href="https://discordapp.com/invite/hJune" className="banner-section"><i
+                            className="fab fa-discord"/>Discord
+                            <div className="banner-stat text-center">
+                                3500 Members
+                            </div>
+                        </a>
+                        <a href="https://twitter.com/h7une" className="banner-section"><i
+                            className="fab fa-twitter"/>Twitter
+                            <div className="banner-stat text-center">
+                                4900 Followers
+                            </div>
+                        </a>
+                </div>
+
             </div>
         );
     }

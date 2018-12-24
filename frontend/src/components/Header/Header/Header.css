@@ -26,3 +26,32 @@
     margin-bottom: 5px;
     font-size: 20px;
 }
+
+.banner-social {
+    justify-content: space-around;
+    padding: 43px;
+    display: flex;
+    flex-direction: row;
+    color: white;
+    bottom: 13%;
+    position: absolute;
+    background-color: #c60c31;
+    width: 100%;
+}
+
+.banner-section{
+    font-size: 40px;
+}
+
+.banner-social i {
+    margin-right: 4px;
+}
+
+.banner-social a {
+    color: white;
+}
+
+.banner-social a:hover {
+    color: white;
+    text-decoration: none;
+}

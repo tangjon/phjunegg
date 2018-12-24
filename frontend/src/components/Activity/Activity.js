@@ -11,7 +11,8 @@ class Activity extends Component {
                 <div className="container section-body mt-4 flex-row">
                     <div id="card-twitter" className="card-rectangle">
                         <div className="card-text">TWITTER</div>
-                        <img style={{height: "852px"}} src={require("./Image 1.png")} alt=""></img>
+                        <a className="twitter-timeline" data-width="470" data-height="1000"
+                           href="https://twitter.com/h7une?ref_src=twsrc%5Etfw">Tweets by h7une</a>
                     </div>
                     <div id="card-schedule" className="card-rectangle">
                         <img style={{height: "852px"}} src={require("./Image 2.png")} alt=""></img>
