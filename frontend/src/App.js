@@ -12,7 +12,7 @@ class App extends Component {
                 <div id="router">
                     <Nav/>
                     <Route exact path='/' component={FrontPage}/>
-                    <Route path={`${process.env.PUBLIC_URL}/live`} component={Twitch}/>
+                    <Route path="/live" component={Twitch}/>
                 </div>
             </Router>
         );
