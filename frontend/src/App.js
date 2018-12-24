@@ -13,7 +13,7 @@ import FrontPage from "./front-page";
 class App extends Component {
     render() {
         return (
-            <Router>
+            <Router basename={process.env.PUBLIC_URL}>
                 <div id="router">
                     <Nav/>
                     <Route exact path={process.env.PUBLIC_URL + '/'} component={FrontPage}/>
