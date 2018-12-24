@@ -4,16 +4,16 @@ self.__precacheManifest = [
     "url": "/project-streamer/static/media/Image 2.dca30d30.png"
   },
   {
-    "revision": "f61b4434fdd16da98356",
-    "url": "/project-streamer/static/css/main.6b099645.chunk.css"
+    "revision": "1e598ba6047bb7b93598",
+    "url": "/project-streamer/static/css/main.740d9765.chunk.css"
   },
   {
     "revision": "27603739fe78fee587c7b84873475b61",
     "url": "/project-streamer/static/media/fa-solid-900.27603739.svg"
   },
   {
-    "revision": "7a2bfda7e92af91a88bf",
-    "url": "/project-streamer/static/js/1.7a2bfda7.chunk.js"
+    "revision": "392e1cd36e9b2ad0f7ca",
+    "url": "/project-streamer/static/js/1.392e1cd3.chunk.js"
   },
   {
     "revision": "cba48b6a9b6faa1de86b",
@@ -68,8 +68,8 @@ self.__precacheManifest = [
     "url": "/project-streamer/static/media/korean-flag.021c0995.png"
   },
   {
-    "revision": "f61b4434fdd16da98356",
-    "url": "/project-streamer/static/js/main.f61b4434.chunk.js"
+    "revision": "1e598ba6047bb7b93598",
+    "url": "/project-streamer/static/js/main.1e598ba6.chunk.js"
   },
   {
     "revision": "e65d96d04378217b8b5caff2fb1b62cb",
@@ -128,11 +128,11 @@ self.__precacheManifest = [
     "url": "/project-streamer/static/media/fa-brands-400.fef43c1f.svg"
   },
   {
-    "revision": "7a2bfda7e92af91a88bf",
-    "url": "/project-streamer/static/css/1.10f7567f.chunk.css"
+    "revision": "392e1cd36e9b2ad0f7ca",
+    "url": "/project-streamer/static/css/1.6f35b959.chunk.css"
   },
   {
-    "revision": "97b04f0fa94bfb705c4705f29edfaf84",
+    "revision": "69a3bc324ea764c8ef0e623e7b49a357",
     "url": "/project-streamer/index.html"
   }
 ];
