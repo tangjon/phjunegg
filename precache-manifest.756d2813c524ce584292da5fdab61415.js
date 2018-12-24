@@ -4,16 +4,16 @@ self.__precacheManifest = [
     "url": "/project-streamer/static/media/Image 2.dca30d30.png"
   },
   {
-    "revision": "16ab55054800ff35d7bb",
-    "url": "/project-streamer/static/css/main.4d34c1bc.chunk.css"
+    "revision": "e1bfcb11df8648bc6b35",
+    "url": "/project-streamer/static/css/main.e4186a2f.chunk.css"
   },
   {
     "revision": "27603739fe78fee587c7b84873475b61",
     "url": "/project-streamer/static/media/fa-solid-900.27603739.svg"
   },
   {
-    "revision": "220aa2db73ee26ae8e8c",
-    "url": "/project-streamer/static/js/1.220aa2db.chunk.js"
+    "revision": "6f9da46e886330a4fb97",
+    "url": "/project-streamer/static/js/1.6f9da46e.chunk.js"
   },
   {
     "revision": "cba48b6a9b6faa1de86b",
@@ -68,8 +68,8 @@ self.__precacheManifest = [
     "url": "/project-streamer/static/media/korean-flag.021c0995.png"
   },
   {
-    "revision": "16ab55054800ff35d7bb",
-    "url": "/project-streamer/static/js/main.16ab5505.chunk.js"
+    "revision": "e1bfcb11df8648bc6b35",
+    "url": "/project-streamer/static/js/main.e1bfcb11.chunk.js"
   },
   {
     "revision": "e65d96d04378217b8b5caff2fb1b62cb",
@@ -80,12 +80,12 @@ self.__precacheManifest = [
     "url": "/project-streamer/static/media/fa-regular-400.fc5252e5.woff"
   },
   {
-    "revision": "deb8619e67992d3fa088b5dcbb8cff36",
-    "url": "/project-streamer/static/media/fa-regular-400.deb8619e.ttf"
-  },
-  {
     "revision": "8e9f0ee6d016526776c27f91fea55cca",
     "url": "/project-streamer/static/media/fa-regular-400.8e9f0ee6.eot"
+  },
+  {
+    "revision": "deb8619e67992d3fa088b5dcbb8cff36",
+    "url": "/project-streamer/static/media/fa-regular-400.deb8619e.ttf"
   },
   {
     "revision": "b89c6c51aa2999159a6667f97a46a346",
@@ -128,11 +128,11 @@ self.__precacheManifest = [
     "url": "/project-streamer/static/media/fa-brands-400.fef43c1f.svg"
   },
   {
-    "revision": "220aa2db73ee26ae8e8c",
-    "url": "/project-streamer/static/css/1.af31af45.chunk.css"
+    "revision": "6f9da46e886330a4fb97",
+    "url": "/project-streamer/static/css/1.1dabdb38.chunk.css"
   },
   {
-    "revision": "9481620f995bff91465020e5bfa975c7",
+    "revision": "bf0d85d8e29cd0b0cdb3ea5d838a3064",
     "url": "/project-streamer/index.html"
   }
 ];
