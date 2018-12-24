@@ -16,7 +16,7 @@ class Header extends Component {
                         <img className="ml-2" style={{height: "62px"}} src={honeyComb} alt="honey_comb"></img>
                     </div>
                 </div>
-                    <div className="banner-social shadow">
+                    <div className="banner-social shadow d-flex flex-column flex-md-row text-center">
                         <a href="https://www.youtube.com/c/hjune" className="banner-section"><i
                             className="fab fa-youtube"/>Youtube
                             <div className="banner-stat text-center">

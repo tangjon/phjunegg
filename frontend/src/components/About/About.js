@@ -9,7 +9,7 @@ class About extends Component {
                 <div className="section-title">ABOUT ME</div>
                 <hr className="divider"></hr>
                 <div className="container section-body mt-4">
-                    <div className="d-flex flex-row justify-content-around">
+                    <div className="d-flex flex-column flex-md-row justify-content-around chip-group">
                         <div className="card-chip">
                             <img src={require('./microphone.png')} className="card-image" alt=""></img>
                             <div className="card-text">STREAMER/ENTERTAINER</div>

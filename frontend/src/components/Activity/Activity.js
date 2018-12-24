@@ -8,7 +8,7 @@ class Activity extends Component {
             <div id="section-activity" className="section">
                 <div className="section-title">ACTIVITY</div>
                 <hr className="divider"></hr>
-                <div className="container section-body mt-4 flex-row">
+                <div className="container section-body mt-4 flex-column flex-md-row">
                     <div id="card-twitter" className="card-rectangle">
                         <div className="card-text">TWITTER</div>
                         <a className="twitter-timeline" data-width="470" data-height="1000"

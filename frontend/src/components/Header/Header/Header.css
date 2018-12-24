@@ -39,7 +39,7 @@
     width: 100%;
 }
 
-.banner-section{
+.banner-section {
     font-size: 40px;
 }
 
@@ -54,4 +54,27 @@
 .banner-social a:hover {
     color: white;
     text-decoration: none;
+}
+
+@media only screen and (max-width: 853px) {
+    .banner-social {
+        padding: 28px;
+    }
+}
+
+@media only screen and (max-width: 829px) {
+    .banner-social {
+        bottom: 0%;
+    }
+}
+
+@media only screen and (max-width: 767px) {
+    .banner-social {
+        padding: 13px;
+        bottom: -3%;
+    }
+
+    a.banner-section {
+        font-size: 24px;
+    }
 }
