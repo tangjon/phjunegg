@@ -36,12 +36,12 @@ self.__precacheManifest = [
     "url": "/project-streamer/static/media/RixMiniBus_Pro_Regular.42964ab3.otf"
   },
   {
-    "revision": "a1facac91dcb51b55847dbab548d6159",
-    "url": "/project-streamer/static/media/RixMiniBusPR.a1facac9.ttf"
-  },
-  {
     "revision": "25024c5816172c10fad396c7f0653241",
     "url": "/project-streamer/static/media/RixMiniBusPR.25024c58.eot"
+  },
+  {
+    "revision": "a1facac91dcb51b55847dbab548d6159",
+    "url": "/project-streamer/static/media/RixMiniBusPR.a1facac9.ttf"
   },
   {
     "revision": "bbf6e977674009052bf574b6bce1caba",
