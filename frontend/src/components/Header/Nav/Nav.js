@@ -31,7 +31,7 @@ class Nav extends Component {
                             <a className="nav-link" href={this.public_url + '/#section-contact'}>CONTACT</a>
                         </li>
                         <li className="nav-item">
-                            <Link to={`/${process.env.PUBLIC_URL}/live`} className="nav-link">LIVE</Link>
+                            <Link to={`/live`} className="nav-link">LIVE</Link>
                         </li>
                     </ul>
                 </div>
