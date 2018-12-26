@@ -4,7 +4,7 @@ self.__precacheManifest = [
     "url": "/project-streamer/static/media/Image 2.dca30d30.png"
   },
   {
-    "revision": "59bf4387b69a11e822e3",
+    "revision": "3f9d8c3eae45ac19ea66",
     "url": "/project-streamer/static/css/main.e4186a2f.chunk.css"
   },
   {
@@ -68,8 +68,8 @@ self.__precacheManifest = [
     "url": "/project-streamer/static/media/korean-flag.021c0995.png"
   },
   {
-    "revision": "59bf4387b69a11e822e3",
-    "url": "/project-streamer/static/js/main.59bf4387.chunk.js"
+    "revision": "3f9d8c3eae45ac19ea66",
+    "url": "/project-streamer/static/js/main.3f9d8c3e.chunk.js"
   },
   {
     "revision": "e65d96d04378217b8b5caff2fb1b62cb",
@@ -132,7 +132,7 @@ self.__precacheManifest = [
     "url": "/project-streamer/static/css/1.1dabdb38.chunk.css"
   },
   {
-    "revision": "1e2a4b98b4390fbc9bda013a541c7968",
+    "revision": "ccf9da3c5879653fb0e19447afae1761",
     "url": "/project-streamer/index.html"
   }
 ];

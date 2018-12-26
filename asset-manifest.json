@@ -1,7 +1,7 @@
 {
   "main.css": "/project-streamer/static/css/main.e4186a2f.chunk.css",
-  "main.js": "/project-streamer/static/js/main.59bf4387.chunk.js",
-  "main.js.map": "/project-streamer/static/js/main.59bf4387.chunk.js.map",
+  "main.js": "/project-streamer/static/js/main.3f9d8c3e.chunk.js",
+  "main.js.map": "/project-streamer/static/js/main.3f9d8c3e.chunk.js.map",
   "static/css/1.1dabdb38.chunk.css": "/project-streamer/static/css/1.1dabdb38.chunk.css",
   "static/js/1.6f9da46e.chunk.js": "/project-streamer/static/js/1.6f9da46e.chunk.js",
   "static/js/1.6f9da46e.chunk.js.map": "/project-streamer/static/js/1.6f9da46e.chunk.js.map",
@@ -19,6 +19,6 @@
   "static/css/main.e4186a2f.chunk.css.map": "/project-streamer/static/css/main.e4186a2f.chunk.css.map",
   "static/css/1.1dabdb38.chunk.css.map": "/project-streamer/static/css/1.1dabdb38.chunk.css.map",
   "index.html": "/project-streamer/index.html",
-  "precache-manifest.748478be57594975e0635106ae129394.js": "/project-streamer/precache-manifest.748478be57594975e0635106ae129394.js",
+  "precache-manifest.b016157542c9bb5f50fceb23c6e5a0aa.js": "/project-streamer/precache-manifest.b016157542c9bb5f50fceb23c6e5a0aa.js",
   "service-worker.js": "/project-streamer/service-worker.js"
 }
