@@ -1,6 +1,6 @@
 import React, {Component} from 'react';
 import './About.css'
-
+import AboutDetail from './AboutDetail'
 
 class About extends Component {
     render() {
@@ -10,22 +10,10 @@ class About extends Component {
                 <hr className="divider"></hr>
                 <div className="container section-body mt-4">
                     <div className="d-flex flex-column flex-md-row justify-content-around chip-group">
-                        <div className="card-chip">
-                            <img src={require('./microphone.png')} className="card-image" alt=""></img>
-                            <div className="card-text">STREAMER/ENTERTAINER</div>
-                        </div>
-                        <div className="card-chip">
-                            <img src={require('./discord-partner.png')} className="card-image" alt=""></img>
-                            <div className="card-text">DISCORD PARTNER</div>
-                        </div>
-                        <div className="card-chip">
-                            <img src={require('./card-stream-elements.png')} className="card-image" alt=""></img>
-                            <div className="card-text">DREAMTEAM</div>
-                        </div>
-                        <div className="card-chip">
-                            <img src={require('./korean-flag.png')} className="card-image" alt=""></img>
-                            <div className="card-text">KOREAN</div>
-                        </div>
+                        <AboutDetail image={require('./microphone.png')} title={"STREAMER/ENTERTAINER"}/>
+                        <AboutDetail image={require('./discord-partner.png')} title={"DISCORD PARTNER"}/>
+                        <AboutDetail image={require('./card-stream-elements.png')} title={"DREAMTEAM"}/>
+                        <AboutDetail image={require('./korean-flag.png')} title={"KOREAN"}/>
                     </div>
                     <div className="section-text">
                         Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been
