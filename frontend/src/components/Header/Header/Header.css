@@ -29,7 +29,6 @@
 
 .banner-social {
     justify-content: space-around;
-    padding: 43px;
     display: flex;
     flex-direction: row;
     color: white;
@@ -77,4 +76,14 @@
     a.banner-section {
         font-size: 24px;
     }
+}
+
+.banner-social a:hover {
+    color: white;
+    text-decoration: none;
+    background-color: #e2123cb5;
+}
+
+a.banner-section {
+    padding: 47px 26px;
 }
