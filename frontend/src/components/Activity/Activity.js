@@ -3,6 +3,10 @@ import './Activity.css'
 
 
 class Activity extends Component {
+
+    componentDidMount() {
+    }
+
     render() {
         return (
             <div id="section-activity" className="section">
@@ -14,9 +18,10 @@ class Activity extends Component {
                         <a className="twitter-timeline" data-width="470" data-height="1000"
                            href="https://twitter.com/h7une?ref_src=twsrc%5Etfw">Tweets by h7une</a>
                     </div>
-                    <div id="card-schedule" className="card-rectangle">
-                        <img style={{height: "852px"}} src={require("./Image 2.png")} alt=""></img>
-                    </div>
+                    {/*<div id="card-schedule" className="card-rectangle">*/}
+                        {/*<img style={{height: "852px"}} src={require("./Image 2.png")} alt=""></img>*/}
+                        {/*<iframe title={"cat"}  src={"https://www.twitch.tv/popout/hjune/extensions/uaw3vx1k0ttq74u9b2zfvt768eebh1/panel"}>s</iframe>*/}
+                    {/*</div>*/}
                 </div>
             </div>
         );

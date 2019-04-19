@@ -8,7 +8,7 @@ import FrontPage from "./front-page";
 class App extends Component {
     render() {
         return (
-            <Router basename="/project-streamer">
+            <Router basename="/phjunegg">
                 <div id="router">
                     <Nav/>
                     <Route exact path='/' component={FrontPage}/>
