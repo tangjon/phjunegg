@@ -20,10 +20,10 @@ class Nav extends Component {
                 <div className="collapse navbar-collapse justify-content-center" id="headerNavBar"
                      style={{flex: '2 0 0'}}>
                     <ul className="navbar-nav justify-content-around" style={{flex: '1 0 0'}}>
-                        <li className="nav-item active">
-                            <a className="nav-link" href={this.public_url + '/#card-schedule'}>SCHEDULE<span
-                                className="sr-only">(current)</span></a>
-                        </li>
+                        {/*<li className="nav-item active">*/}
+                            {/*<a className="nav-link" href={this.public_url + '/#card-schedule'}>SCHEDULE<span*/}
+                                {/*className="sr-only">(current)</span></a>*/}
+                        {/*</li>*/}
                         <li className="nav-item">
                             <a className="nav-link" href={this.public_url + '/#section-about'}>ABOUT</a>
                         </li>
