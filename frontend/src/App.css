@@ -58,7 +58,7 @@ h1 {
     height: fit-content;
     padding: 20px;
     text-align: center;
-    margin: 0 20px;
+    margin: auto;
 }
 
 .card-rectangle .card-text {
