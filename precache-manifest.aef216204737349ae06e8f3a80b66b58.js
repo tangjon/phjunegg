@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "dca30d303090c6c77327c11d49703075",
-    "url": "/phjunegg/static/media/Image 2.dca30d30.png"
+    "revision": "021c0995a48e0bd85fa40610e7289ab8",
+    "url": "/phjunegg/static/media/korean-flag.021c0995.png"
   },
   {
-    "revision": "6ee727b5eb3ecc20da6e",
-    "url": "/phjunegg/static/css/main.047fbf48.chunk.css"
+    "revision": "8bd7c4d109ae0d05d4ff",
+    "url": "/phjunegg/static/css/main.d4e905d8.chunk.css"
   },
   {
     "revision": "6f2e7b177cb30b14ddb5",
@@ -16,8 +16,8 @@ self.__precacheManifest = [
     "url": "/phjunegg/static/media/fa-solid-900.27603739.svg"
   },
   {
-    "revision": "ca2aeab4d9a1fc5061c5",
-    "url": "/phjunegg/static/js/2.d7cae87b.chunk.js"
+    "revision": "63b7a7c548beb63d5d5f",
+    "url": "/phjunegg/static/js/2.70a3627e.chunk.js"
   },
   {
     "revision": "f124f848c4529c8fb654188a8edc8656",
@@ -64,12 +64,8 @@ self.__precacheManifest = [
     "url": "/phjunegg/static/media/card-stream-elements.13545e83.png"
   },
   {
-    "revision": "021c0995a48e0bd85fa40610e7289ab8",
-    "url": "/phjunegg/static/media/korean-flag.021c0995.png"
-  },
-  {
-    "revision": "6ee727b5eb3ecc20da6e",
-    "url": "/phjunegg/static/js/main.9f79615c.chunk.js"
+    "revision": "8bd7c4d109ae0d05d4ff",
+    "url": "/phjunegg/static/js/main.6e60eabc.chunk.js"
   },
   {
     "revision": "e65d96d04378217b8b5caff2fb1b62cb",
@@ -104,35 +100,35 @@ self.__precacheManifest = [
     "url": "/phjunegg/static/media/fa-solid-900.52b8345b.woff"
   },
   {
-    "revision": "50a544b5ad4d512e8db3cdc089823a00",
-    "url": "/phjunegg/static/media/fa-brands-400.50a544b5.ttf"
-  },
-  {
     "revision": "7d43b9ae0b8bb1d0dc425d78dc577b0a",
     "url": "/phjunegg/static/media/fa-brands-400.7d43b9ae.eot"
+  },
+  {
+    "revision": "50a544b5ad4d512e8db3cdc089823a00",
+    "url": "/phjunegg/static/media/fa-brands-400.50a544b5.ttf"
   },
   {
     "revision": "734248d027cbaac7f03c0d931ec95593",
     "url": "/phjunegg/static/media/fa-regular-400.734248d0.svg"
   },
   {
-    "revision": "1709a2810c3752483683f3f7d287aa89",
-    "url": "/phjunegg/static/media/fa-solid-900.1709a281.ttf"
-  },
-  {
     "revision": "f72d546abcc27880adf8428792c72519",
     "url": "/phjunegg/static/media/fa-solid-900.f72d546a.eot"
+  },
+  {
+    "revision": "1709a2810c3752483683f3f7d287aa89",
+    "url": "/phjunegg/static/media/fa-solid-900.1709a281.ttf"
   },
   {
     "revision": "fef43c1fd872ef7f1880483d9b63ccf2",
     "url": "/phjunegg/static/media/fa-brands-400.fef43c1f.svg"
   },
   {
-    "revision": "ca2aeab4d9a1fc5061c5",
+    "revision": "63b7a7c548beb63d5d5f",
     "url": "/phjunegg/static/css/2.125de62f.chunk.css"
   },
   {
-    "revision": "eb6859d614b8f7d641aa5cbd819fd065",
+    "revision": "a72bdd795d9411135c0c7ba20eb8b449",
     "url": "/phjunegg/index.html"
   }
 ];
