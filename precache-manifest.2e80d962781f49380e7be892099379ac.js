@@ -4,7 +4,7 @@ self.__precacheManifest = [
     "url": "/phjunegg/static/media/Image 2.dca30d30.png"
   },
   {
-    "revision": "d52ff2066c1ae27fd56e",
+    "revision": "6ee727b5eb3ecc20da6e",
     "url": "/phjunegg/static/css/main.047fbf48.chunk.css"
   },
   {
@@ -36,12 +36,12 @@ self.__precacheManifest = [
     "url": "/phjunegg/static/media/RixMiniBus_Pro_Regular.42964ab3.otf"
   },
   {
-    "revision": "a1facac91dcb51b55847dbab548d6159",
-    "url": "/phjunegg/static/media/RixMiniBusPR.a1facac9.ttf"
-  },
-  {
     "revision": "25024c5816172c10fad396c7f0653241",
     "url": "/phjunegg/static/media/RixMiniBusPR.25024c58.eot"
+  },
+  {
+    "revision": "a1facac91dcb51b55847dbab548d6159",
+    "url": "/phjunegg/static/media/RixMiniBusPR.a1facac9.ttf"
   },
   {
     "revision": "bbf6e977674009052bf574b6bce1caba",
@@ -68,8 +68,8 @@ self.__precacheManifest = [
     "url": "/phjunegg/static/media/korean-flag.021c0995.png"
   },
   {
-    "revision": "d52ff2066c1ae27fd56e",
-    "url": "/phjunegg/static/js/main.04d29690.chunk.js"
+    "revision": "6ee727b5eb3ecc20da6e",
+    "url": "/phjunegg/static/js/main.9f79615c.chunk.js"
   },
   {
     "revision": "e65d96d04378217b8b5caff2fb1b62cb",
@@ -104,24 +104,24 @@ self.__precacheManifest = [
     "url": "/phjunegg/static/media/fa-solid-900.52b8345b.woff"
   },
   {
-    "revision": "7d43b9ae0b8bb1d0dc425d78dc577b0a",
-    "url": "/phjunegg/static/media/fa-brands-400.7d43b9ae.eot"
-  },
-  {
     "revision": "50a544b5ad4d512e8db3cdc089823a00",
     "url": "/phjunegg/static/media/fa-brands-400.50a544b5.ttf"
+  },
+  {
+    "revision": "7d43b9ae0b8bb1d0dc425d78dc577b0a",
+    "url": "/phjunegg/static/media/fa-brands-400.7d43b9ae.eot"
   },
   {
     "revision": "734248d027cbaac7f03c0d931ec95593",
     "url": "/phjunegg/static/media/fa-regular-400.734248d0.svg"
   },
   {
-    "revision": "f72d546abcc27880adf8428792c72519",
-    "url": "/phjunegg/static/media/fa-solid-900.f72d546a.eot"
-  },
-  {
     "revision": "1709a2810c3752483683f3f7d287aa89",
     "url": "/phjunegg/static/media/fa-solid-900.1709a281.ttf"
+  },
+  {
+    "revision": "f72d546abcc27880adf8428792c72519",
+    "url": "/phjunegg/static/media/fa-solid-900.f72d546a.eot"
   },
   {
     "revision": "fef43c1fd872ef7f1880483d9b63ccf2",
@@ -132,7 +132,7 @@ self.__precacheManifest = [
     "url": "/phjunegg/static/css/2.125de62f.chunk.css"
   },
   {
-    "revision": "9c3e6b65bd66279c77abdf688aafd3a8",
+    "revision": "eb6859d614b8f7d641aa5cbd819fd065",
     "url": "/phjunegg/index.html"
   }
 ];
